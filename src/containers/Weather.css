@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@400;700&family=Chango&display=swap');
+
+.main{
+    text-align: center;
+    max-width: 300px;
+    margin:auto;
+    background-color:#f7f219;
+    margin-top:10px;
+    padding:10px;
+    color:black;
+    border-radius: 3px;;
+}
+
+.error{
+    color:red;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.header{
+    font-family: 'Averia Serif Libre', cursive;
+    font-size: 25px;
+    padding:4px;
+}
+
